@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ExercicioLoop\\PrimeiroCaractere\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18355644-9C4D-4B2A-ADDE-7C3ADFF4054F}|PrimeiroCaractere\\PrimeiroCaractere.csproj|d:\\exercicioloop\\primeirocaractere\\primeirocaractere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18355644-9C4D-4B2A-ADDE-7C3ADFF4054F}|PrimeiroCaractere\\PrimeiroCaractere.csproj|solutionrelative:primeirocaractere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 259,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ExercicioLoop\\PrimeiroCaractere\\PrimeiroCaractere\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeiroCaractere\\Program.cs",
+              "ToolTip": "D:\\ExercicioLoop\\PrimeiroCaractere\\PrimeiroCaractere\\Program.cs",
+              "RelativeToolTip": "PrimeiroCaractere\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T02:01:47.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
