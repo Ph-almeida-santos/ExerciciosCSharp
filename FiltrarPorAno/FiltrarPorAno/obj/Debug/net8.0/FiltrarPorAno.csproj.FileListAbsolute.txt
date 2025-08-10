@@ -1,0 +1,15 @@
+D:\ExercicioSimples\FiltrarPorAno\FiltrarPorAno\bin\Debug\net8.0\FiltrarPorAno.exe
+D:\ExercicioSimples\FiltrarPorAno\FiltrarPorAno\bin\Debug\net8.0\FiltrarPorAno.deps.json
+D:\ExercicioSimples\FiltrarPorAno\FiltrarPorAno\bin\Debug\net8.0\FiltrarPorAno.runtimeconfig.json
+D:\ExercicioSimples\FiltrarPorAno\FiltrarPorAno\bin\Debug\net8.0\FiltrarPorAno.dll
+D:\ExercicioSimples\FiltrarPorAno\FiltrarPorAno\bin\Debug\net8.0\FiltrarPorAno.pdb
+D:\ExercicioSimples\FiltrarPorAno\FiltrarPorAno\obj\Debug\net8.0\FiltrarPorAno.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExercicioSimples\FiltrarPorAno\FiltrarPorAno\obj\Debug\net8.0\FiltrarPorAno.AssemblyInfoInputs.cache
+D:\ExercicioSimples\FiltrarPorAno\FiltrarPorAno\obj\Debug\net8.0\FiltrarPorAno.AssemblyInfo.cs
+D:\ExercicioSimples\FiltrarPorAno\FiltrarPorAno\obj\Debug\net8.0\FiltrarPorAno.csproj.CoreCompileInputs.cache
+D:\ExercicioSimples\FiltrarPorAno\FiltrarPorAno\obj\Debug\net8.0\FiltrarPorAno.sourcelink.json
+D:\ExercicioSimples\FiltrarPorAno\FiltrarPorAno\obj\Debug\net8.0\FiltrarPorAno.dll
+D:\ExercicioSimples\FiltrarPorAno\FiltrarPorAno\obj\Debug\net8.0\refint\FiltrarPorAno.dll
+D:\ExercicioSimples\FiltrarPorAno\FiltrarPorAno\obj\Debug\net8.0\FiltrarPorAno.pdb
+D:\ExercicioSimples\FiltrarPorAno\FiltrarPorAno\obj\Debug\net8.0\FiltrarPorAno.genruntimeconfig.cache
+D:\ExercicioSimples\FiltrarPorAno\FiltrarPorAno\obj\Debug\net8.0\ref\FiltrarPorAno.dll
