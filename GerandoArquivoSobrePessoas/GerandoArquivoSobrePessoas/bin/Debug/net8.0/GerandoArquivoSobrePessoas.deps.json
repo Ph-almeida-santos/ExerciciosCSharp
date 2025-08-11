@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GerandoArquivoSobrePessoas/1.0.0": {
+        "runtime": {
+          "GerandoArquivoSobrePessoas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GerandoArquivoSobrePessoas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

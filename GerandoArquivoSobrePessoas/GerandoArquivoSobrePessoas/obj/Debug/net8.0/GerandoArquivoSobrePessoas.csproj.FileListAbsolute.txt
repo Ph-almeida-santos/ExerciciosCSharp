@@ -1,0 +1,15 @@
+D:\ExercicioSimples\GerandoArquivoSobrePessoas\GerandoArquivoSobrePessoas\bin\Debug\net8.0\GerandoArquivoSobrePessoas.exe
+D:\ExercicioSimples\GerandoArquivoSobrePessoas\GerandoArquivoSobrePessoas\bin\Debug\net8.0\GerandoArquivoSobrePessoas.deps.json
+D:\ExercicioSimples\GerandoArquivoSobrePessoas\GerandoArquivoSobrePessoas\bin\Debug\net8.0\GerandoArquivoSobrePessoas.runtimeconfig.json
+D:\ExercicioSimples\GerandoArquivoSobrePessoas\GerandoArquivoSobrePessoas\bin\Debug\net8.0\GerandoArquivoSobrePessoas.dll
+D:\ExercicioSimples\GerandoArquivoSobrePessoas\GerandoArquivoSobrePessoas\bin\Debug\net8.0\GerandoArquivoSobrePessoas.pdb
+D:\ExercicioSimples\GerandoArquivoSobrePessoas\GerandoArquivoSobrePessoas\obj\Debug\net8.0\GerandoArquivoSobrePessoas.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExercicioSimples\GerandoArquivoSobrePessoas\GerandoArquivoSobrePessoas\obj\Debug\net8.0\GerandoArquivoSobrePessoas.AssemblyInfoInputs.cache
+D:\ExercicioSimples\GerandoArquivoSobrePessoas\GerandoArquivoSobrePessoas\obj\Debug\net8.0\GerandoArquivoSobrePessoas.AssemblyInfo.cs
+D:\ExercicioSimples\GerandoArquivoSobrePessoas\GerandoArquivoSobrePessoas\obj\Debug\net8.0\GerandoArquivoSobrePessoas.csproj.CoreCompileInputs.cache
+D:\ExercicioSimples\GerandoArquivoSobrePessoas\GerandoArquivoSobrePessoas\obj\Debug\net8.0\GerandoArquivoSobrePessoas.sourcelink.json
+D:\ExercicioSimples\GerandoArquivoSobrePessoas\GerandoArquivoSobrePessoas\obj\Debug\net8.0\GerandoArquivoSobrePessoas.dll
+D:\ExercicioSimples\GerandoArquivoSobrePessoas\GerandoArquivoSobrePessoas\obj\Debug\net8.0\refint\GerandoArquivoSobrePessoas.dll
+D:\ExercicioSimples\GerandoArquivoSobrePessoas\GerandoArquivoSobrePessoas\obj\Debug\net8.0\GerandoArquivoSobrePessoas.pdb
+D:\ExercicioSimples\GerandoArquivoSobrePessoas\GerandoArquivoSobrePessoas\obj\Debug\net8.0\GerandoArquivoSobrePessoas.genruntimeconfig.cache
+D:\ExercicioSimples\GerandoArquivoSobrePessoas\GerandoArquivoSobrePessoas\obj\Debug\net8.0\ref\GerandoArquivoSobrePessoas.dll
