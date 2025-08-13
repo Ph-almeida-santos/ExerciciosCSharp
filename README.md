@@ -24,4 +24,4 @@ A prática dos exercícios tem como objetivo reforçar conceitos fundamentais co
 
 ---
 
-> Criado por Pedro Almeida 👨‍💻
+> Criado por Pedro Almeida
